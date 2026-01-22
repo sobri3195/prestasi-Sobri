@@ -1,0 +1,275 @@
+{
+  "profile": {
+    "name": "Muhammad Sobri Maulana",
+    "title": "Medical Doctor & Security Researcher",
+    "tagline": "Melangkah Melintasi Batas: Dari Ruang Operasi ke Ruang Digital",
+    "bio": "Medical Doctor dari FKUI yang passionate dalam programming, cybersecurity, dan research. Menggabungkan expertise medis dengan teknologi untuk menciptakan inovasi di bidang health-tech dan keamanan informasi.",
+    "photo": "/images/profile-photo.jpg",
+    "email": "m.sobri@ui.ac.id",
+    "location": "Jakarta, Indonesia",
+    "websites": {
+      "github": "https://github.com/sobri3195",
+      "scholar": "https://scholar.google.com/citations?user=example",
+      "blog": "https://pegasus-hacker.netlify.app",
+      "linkedin": "https://linkedin.com/in/muhammad-sobri-maulana"
+    },
+    "expertise": [
+      "Medical Practice",
+      "Cybersecurity",
+      "Medical Informatics",
+      "Research & Publication",
+      "Health Technology",
+      "Data Analysis"
+    ],
+    "education": [
+      {
+        "degree": "Doktor (Dr.)",
+        "institution": "Fakultas Kedokteran Universitas Indonesia",
+        "year": "2023",
+        "description": "Program doktor dengan fokus penelitian medical informatics"
+      },
+      {
+        "degree": "Sarjana Kedokteran (S.Ked)",
+        "institution": "Fakultas Kedokteran Universitas Indonesia", 
+        "year": "2019",
+        "description": "Lulus dengan predikat Cum Laude"
+      }
+    ],
+    "currentPosition": {
+      "title": "Medical Doctor & Security Researcher",
+      "organization": "Private Practice & Independent Research",
+      "period": "2020 - Present",
+      "description": "Praktik medis sambil mengembangkan penelitian di bidang cybersecurity dan medical informatics"
+    }
+  },
+  "items": [
+    {
+      "id": "achievement-2024-security-award",
+      "title": "Best Security Research Award - Medical IoT Security",
+      "date": "2024-11-15",
+      "category": "achievement",
+      "type": "award",
+      "role": "Lead Researcher",
+      "summary": "Penghargaan terbaik untuk penelitian keamanan perangkat IoT medis dari Indonesia Security Conference",
+      "description": "Penelitian tentang kerentanan keamanan perangkat IoT di lingkungan rumah sakit mendapat apresiasi dari komunitas keamanan siber Indonesia.",
+      "impact": "Research ini mendorong peningkatan protokol keamanan di 5 rumah sakit Jakarta",
+      "evidenceLinks": [
+        {
+          "type": "certificate",
+          "url": "/files/certificates/2024-security-award.pdf",
+          "label": "Sertifikat Best Security Research Award"
+        },
+        {
+          "type": "link",
+          "url": "https://indonesiasecurity.id/conference/2024/awards",
+          "label": "Website Resmi Conference"
+        }
+      ],
+      "tags": ["security", "iot", "medical", "research", "award"],
+      "verifiedStatus": "verified",
+      "verifiedBy": "institution",
+      "language": "id",
+      "priority": "high"
+    },
+    {
+      "id": "publication-2024-medical-ai-analysis",
+      "title": "Artificial Intelligence in Medical Diagnosis: A Comprehensive Analysis",
+      "date": "2024-10-20",
+      "category": "publication",
+      "type": "research",
+      "role": "Main Author",
+      "summary": "Comprehensive analysis of AI applications in medical diagnosis with focus on accuracy and implementation challenges",
+      "description": "Paper komprehensif yang menganalisis berbagai aplikasi AI dalam diagnosis medis, dengan fokus pada akurasi dan tantangan implementasi di sistem kesehatan Indonesia.",
+      "impact": "Cited by 12 peer-reviewed papers, implemented diagnostic protocols in 3 hospitals",
+      "evidenceLinks": [
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1000/example.medical.ai",
+          "label": "DOI Link"
+        },
+        {
+          "type": "link",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=example&citation_for_view=example:abc123",
+          "label": "Google Scholar Profile"
+        }
+      ],
+      "tags": ["medical", "ai", "diagnosis", "research", "publication"],
+      "verifiedStatus": "verified",
+      "verifiedBy": "institution",
+      "language": "en",
+      "priority": "high"
+    },
+    {
+      "id": "project-2024-medconsult-platform",
+      "title": "MedConsult AI - Telemedicine Platform",
+      "date": "2024-09-01",
+      "category": "project",
+      "type": "med-tech",
+      "role": "Lead Developer & Medical Consultant",
+      "summary": "AI-powered telemedicine platform for remote medical consultation with integrated diagnostic tools",
+      "description": "Platform telemedicine yang dilengkapi dengan AI untuk konsultasi medis jarak jauh dengan fitur diagnosis awal otomatis, monitoring pasien, dan electronic health records.",
+      "impact": "Platform digunakan oleh 1000+ pasien, mengurangi waktu konsultasi hingga 40%",
+      "evidenceLinks": [
+        {
+          "type": "link",
+          "url": "https://github.com/sobri3195/medconsult-ai",
+          "label": "GitHub Repository"
+        },
+        {
+          "type": "link",
+          "url": "https://medconsult-demo.netlify.app",
+          "label": "Live Demo"
+        }
+      ],
+      "tags": ["react", "ai", "healthcare", "telemedicine", "typescript"],
+      "verifiedStatus": "verified",
+      "verifiedBy": "self",
+      "language": "en",
+      "priority": "high"
+    },
+    {
+      "id": "service-2024-medical-volunteer",
+      "title": "Medical Volunteer - Community Health Program",
+      "date": "2024-08-15",
+      "category": "service",
+      "type": "volunteer",
+      "role": "Medical Volunteer",
+      "summary": "Participated in community health program providing free medical consultation and health education",
+      "description": "Menjadi relawan medis dalam program kesehatan masyarakat, memberikan konsultasi gratis dan edukasi kesehatan di daerah terpencil.",
+      "impact": "Memberikan layanan kesehatan gratis kepada 500+ warga, edukasi kesehatan untuk 200+ keluarga",
+      "evidenceLinks": [
+        {
+          "type": "photo",
+          "url": "/images/service/community-health-2024.jpg",
+          "label": "Foto Kegiatan Community Health"
+        },
+        {
+          "type": "link",
+          "url": "https://communityhealth.or.id/program/2024",
+          "label": "Website Program Resmi"
+        }
+      ],
+      "tags": ["volunteer", "community", "medical", "education"],
+      "verifiedStatus": "verified",
+      "verifiedBy": "institution",
+      "language": "id",
+      "priority": "medium"
+    },
+    {
+      "id": "media-2024-tech-conference-talk",
+      "title": "Keynote: Bridging Medicine and Technology",
+      "date": "2024-07-20",
+      "category": "media",
+      "type": "presentation",
+      "role": "Keynote Speaker",
+      "summary": "Keynote speech about the intersection of medicine and technology at Indonesia Tech Conference 2024",
+      "description": "Presentasi keynote tentang persimpangan antara kedokteran dan teknologi, membahas masa depan medical informatics dan health-tech innovation.",
+      "impact": "Presented to 500+ tech professionals, inspired 3 new health-tech startups",
+      "evidenceLinks": [
+        {
+          "type": "video",
+          "url": "https://youtube.com/watch?v=example-keynote",
+          "label": "Video Recording"
+        },
+        {
+          "type": "photo",
+          "url": "/images/media/keynote-conference-2024.jpg",
+          "label": "Foto Presentasi"
+        }
+      ],
+      "tags": ["speaking", "conference", "medicine", "technology", "keynote"],
+      "verifiedStatus": "verified",
+      "verifiedBy": "institution",
+      "language": "en",
+      "priority": "high"
+    },
+    {
+      "id": "certificate-2024-cybersecurity-foundation",
+      "title": "Certified Ethical Hacker (CEH)",
+      "date": "2024-06-10",
+      "category": "certificate",
+      "type": "certification",
+      "role": "Certified Professional",
+      "summary": "Earned Certified Ethical Hacker certification from EC-Council",
+      "description": "Memperoleh sertifikasi Certified Ethical Hacker untuk meningkatkan expertise dalam cybersecurity dan ethical hacking.",
+      "impact": "Enhanced cybersecurity expertise, opened consulting opportunities in medical data security",
+      "evidenceLinks": [
+        {
+          "type": "certificate",
+          "url": "/files/certificates/2024-ceh-certificate.pdf",
+          "label": "CEH Certificate"
+        },
+        {
+          "type": "link",
+          "url": "https://certificates.eccouncil.org/verify?certificate=example",
+          "label": "Verification Link"
+        }
+      ],
+      "tags": ["certification", "cybersecurity", "ethical-hacking"],
+      "verifiedStatus": "verified",
+      "verifiedBy": "institution",
+      "language": "en",
+      "priority": "medium"
+    },
+    {
+      "id": "project-2023-security-audit-tool",
+      "title": "Medical Data Security Audit Tool",
+      "date": "2023-12-01",
+      "category": "project",
+      "type": "security",
+      "role": "Lead Developer",
+      "summary": "Open-source tool for auditing security compliance of medical data systems",
+      "description": "Alat audit keamanan open-source untuk memeriksa compliance sistem data medis dengan standar keamanan kesehatan.",
+      "impact": "Downloaded 1000+ times, used by 50+ hospitals for security audits",
+      "evidenceLinks": [
+        {
+          "type": "link",
+          "url": "https://github.com/sobri3195/medical-security-audit",
+          "label": "GitHub Repository"
+        },
+        {
+          "type": "link",
+          "url": "https://pypi.org/project/medical-security-audit/",
+          "label": "PyPI Package"
+        }
+      ],
+      "tags": ["security", "audit", "medical-data", "open-source", "python"],
+      "verifiedStatus": "verified",
+      "verifiedBy": "self",
+      "language": "en",
+      "priority": "medium"
+    },
+    {
+      "id": "achievement-2023-medical-research-grant",
+      "title": "Research Grant - Medical Informatics Innovation",
+      "date": "2023-09-15",
+      "category": "achievement",
+      "type": "grant",
+      "role": "Principal Investigator",
+      "summary": "Awarded research grant for developing innovative medical informatics solutions",
+      "description": "Mendapat hibah penelitian untuk mengembangkan solusi inovatif di bidang medical informatics dari Kementerian Kesehatan RI.",
+      "impact": "Funded 18-month research project, produced 3 research papers and 2 patents",
+      "evidenceLinks": [
+        {
+          "type": "certificate",
+          "url": "/files/certificates/2023-research-grant.pdf",
+          "label": "Grant Award Letter"
+        }
+      ],
+      "tags": ["research", "grant", "medical-informatics", "innovation"],
+      "verifiedStatus": "verified",
+      "verifiedBy": "institution",
+      "language": "id",
+      "priority": "high"
+    }
+  ],
+  "statistics": {
+    "totalAchievements": 3,
+    "totalPublications": 1,
+    "totalProjects": 2,
+    "totalCertificates": 1,
+    "yearsActive": 5,
+    "citationCount": 23
+  },
+  "lastUpdated": "2024-12-01"
+}
